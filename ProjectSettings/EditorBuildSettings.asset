@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MenuLevel.unity
     guid: 2fa55462fc719a848b33dd6097f67562
-  - enabled: 1
+  - enabled: 0
     path: Assets/Pixel_Quest/Scenes/Pixel_Quest_TestLevel.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 0
@@ -19,5 +19,14 @@ EditorBuildSettings:
     guid: 8fcbbf205b9dfa043a98c17f73b8a9f0
   - enabled: 1
     path: Assets/Geo_Quest/Scenes/Scene_2.unity
+    guid: e8b72dc7751cc704fa290b0f1392c8e5
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Scene_3.unity
     guid: 85e5539bd2f694b079a91e36acefc35a
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Scene_4.unity
+    guid: d2815517c6e5b7b4db56558df70ac380
+  - enabled: 1
+    path: Assets/Geo_Quest/Scenes/Scene_5.unity
+    guid: 1e319a176212d674f9ad5ef00c0437e6
   m_configObjects: {}
